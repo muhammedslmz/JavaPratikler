@@ -58,5 +58,5 @@ public class Ring {
             System.out.println(f1.name + " Kalan Can \t:" + f1.health);
             System.out.println(f2.name + " Kalan Can \t:" + f2.health);
         }
-    }
+    } 
 
